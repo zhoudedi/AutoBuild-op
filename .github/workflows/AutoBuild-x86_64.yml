@@ -31,7 +31,7 @@ env:
 # 设备名称
   DEFAULT_TARGET: x86_64
 # 源码仓库:分支
-  DEFAULT_SOURCE: coolsnowwolf/lede:master
+  DEFAULT_SOURCE: yuyangyu755/lede:master
 # 上传固件到 Github Releases
   UPLOAD_RELEASES: true
 # 上传固件到 Github Artifacts

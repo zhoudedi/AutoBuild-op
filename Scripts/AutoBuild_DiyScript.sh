@@ -3,10 +3,10 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001
+	Author=xiaowansm
 	Default_Device=
 	Short_Firmware_Date=true
-	Default_IP_Address=192.168.1.1
+	Default_IP_Address=192.168.5.1
 
 	INCLUDE_AutoUpdate=true
 	INCLUDE_AutoBuild_Tools=true

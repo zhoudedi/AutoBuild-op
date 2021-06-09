@@ -1,0 +1,7 @@
+git other openwrt-passwall xiaorouji main
+git other luci-app-shutdown Hyy2001X
+svn network/utils iperf3 openwrt/packages/trunk/net
+svn network/utils curl openwrt/packages/trunk/net
+svn lean wget openwrt/packages/trunk/net
+git other luci-app-dnsfilter garypang13 main
+svn other luci-app-eqos kenzok8/openwrt-packages/trunk

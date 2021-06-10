@@ -20,7 +20,7 @@ on:
         default: 'x86_64'
       DEFAULT_SOURCE:
         description: '源码:分支 [必选]'
-        default: 'yuyangyu755/lede:master'
+        default: 'xiaowansm5/lede:master'
       IP:
         description: '固件 IP 地址 [可选]'
         default: ''

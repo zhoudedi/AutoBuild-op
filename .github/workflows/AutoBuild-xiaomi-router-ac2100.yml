@@ -4,7 +4,7 @@
 #   Author: xiaowansm                                      #
 ###########################################################
 
-name: AutoBuild-xiaomi-router-ac2100
+name: AutoBuild-xiaomi_mir3p
 
 ### 以下内容请保持不变
 on:
@@ -29,7 +29,7 @@ on:
 ### 环境变量设置
 env:
 # 设备名称
-  DEFAULT_TARGET: xiaomi-router-ac2100
+  DEFAULT_TARGET: xiaomi_mir3p
 # 源码仓库:分支
   DEFAULT_SOURCE: xiaowansm5/lede:master
 # 上传固件到 Github Releases

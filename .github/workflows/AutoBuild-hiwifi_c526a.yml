@@ -4,7 +4,7 @@
 #   Author: Hyy2001X                                      #
 ###########################################################
 
-name: AutoBuild-xiaoyu_xy-c5
+name: AutoBuild-hiwifi_c526a
 
 ### 以下内容请保持不变
 on:
@@ -29,7 +29,7 @@ on:
 ### 环境变量设置
 env:
 # 设备名称
-  DEFAULT_TARGET: xiaoyu_xy-c5
+  DEFAULT_TARGET: hiwifi_c526a
 # 源码仓库:分支
   DEFAULT_SOURCE: xiaowansm5/lede/lede:master
 # 上传固件到 Github Releases

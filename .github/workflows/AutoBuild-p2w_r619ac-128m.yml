@@ -4,7 +4,7 @@
 #   Author: Hyy2001X                                      #
 ###########################################################
 
-name: AutoBuild-hiwifi_c526a
+name: AutoBuild-p2w_r619ac-128m
 
 ### 以下内容请保持不变
 on:
@@ -29,7 +29,7 @@ on:
 ### 环境变量设置
 env:
 # 设备名称
-  DEFAULT_TARGET: hiwifi_c526a
+  DEFAULT_TARGET: p2w_r619ac-128m
 # 源码仓库:分支
   DEFAULT_SOURCE: xiaowansm5/lede:master
 # 上传固件到 Github Releases

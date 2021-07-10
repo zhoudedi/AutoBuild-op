@@ -12,7 +12,7 @@ on:
   workflow_dispatch:
     inputs:
       ip_addr:
-        description: '固件 IP 地址 [可选]'
+        description: '192.168.5.1'
         default: ''
 ### END
 
@@ -35,7 +35,7 @@ env:
 # 上传固件到 Github Releases
   UPLOAD_RELEASES: true
 # 上传固件到 Github Artifacts
-  UPLOAD_ARTIFACTS: false
+  UPLOAD_ARTIFACTS: true
 # 上传 bin 文件夹到 Github Artifacts
   UPLOAD_BIN_ARTIFACTS: false
 # 删除无用文件以释放更多空间

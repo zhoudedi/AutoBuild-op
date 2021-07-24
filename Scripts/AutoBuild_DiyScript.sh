@@ -3,9 +3,9 @@
 # AutoBuild DiyScript
 
 Diy_Core() {
-	Author=Hyy2001
+	Author=小碗儿数码
 	Short_Firmware_Date=true
-	Default_LAN_IP=192.168.1.1
+	Default_LAN_IP=192.168.5.1
 
 	INCLUDE_AutoBuild_Features=true
 	INCLUDE_DRM_I915=false

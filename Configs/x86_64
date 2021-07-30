@@ -5176,7 +5176,7 @@ CONFIG_POSTFIX_PCRE=y
 # CONFIG_PACKAGE_mktorrent is not set
 # CONFIG_PACKAGE_opentracker is not set
 # CONFIG_PACKAGE_opentracker6 is not set
-CONFIG_PACKAGE_qBittorrent-static=y
+
 # CONFIG_PACKAGE_qbittorrent is not set
 # CONFIG_PACKAGE_rtorrent is not set
 # CONFIG_PACKAGE_rtorrent-rpc is not set

@@ -4,9 +4,9 @@
 
 Diy_Core() {
 
-	Author=小碗儿数码
+	Author=Hyy2001
 	Banner_Title="Powered by AutoBuild-Actions"
-	Default_LAN_IP=192.168.5.1
+	Default_LAN_IP=192.168.1.1
 
 	Load_Common_Config=true
 	Load_CustomPackages_List=true

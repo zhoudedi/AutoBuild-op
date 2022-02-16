@@ -4,8 +4,8 @@
 
 Diy_Core() {
 
-	Author=小碗儿数码
-	Banner_Title="Powered by AutoBuild-Actions"
+	Author=小周科技
+	Banner_Title="https://www.lvxin.xn--6qq986b3xl/"
 	Default_LAN_IP=192.168.5.1
 
 	Load_Common_Config=true

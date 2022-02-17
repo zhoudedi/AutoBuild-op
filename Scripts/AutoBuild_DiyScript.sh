@@ -15,7 +15,7 @@ Diy_Core() {
 	Firmware_Format=false
 	REGEX_Skip_Checkout="packages|buildinfo|sha256sums|manifest|kernel|rootfs|factory"
 
-	INCLUDE_AutoBuild_Features=true
+	INCLUDE_AutoBuild_Features=false
 	INCLUDE_DRM_I915=true
 	INCLUDE_Argon=true
 	INCLUDE_Obsolete_PKG_Compatible=false
